@@ -1,0 +1,12 @@
+C:\Users\matth\source\repos\W))Browse\W))Browse\bin\Debug\W))Browse.exe.config
+C:\Users\matth\source\repos\W))Browse\W))Browse\bin\Debug\W))Browse.exe
+C:\Users\matth\source\repos\W))Browse\W))Browse\bin\Debug\W))Browse.pdb
+C:\Users\matth\source\repos\W))Browse\W))Browse\bin\Debug\W))Browse.xml
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.vbprojResolveAssemblyReference.cache
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W__Browse.Resources.resources
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.vbproj.GenerateResource.cache
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.vbproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.exe
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.xml
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W))Browse.pdb
+C:\Users\matth\source\repos\W))Browse\W))Browse\obj\Debug\W__Browse.Form1.resources
